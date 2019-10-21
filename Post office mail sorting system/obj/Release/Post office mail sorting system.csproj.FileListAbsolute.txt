@@ -1,0 +1,50 @@
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\bin\Release\Post office mail sorting system.exe
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\bin\Release\Post office mail sorting system.pdb
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\obj\Release\ResolveAssemblyReference.cache
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form2.resources
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form3.resources
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.csproj.GenerateResource.Cache
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.exe
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.pdb
+E:\enigma\New folder\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form1.resources
+F:\Post office mail sorting system\Post office mail sorting system\bin\Release\Post office mail sorting system.exe
+F:\Post office mail sorting system\Post office mail sorting system\bin\Release\Post office mail sorting system.pdb
+F:\Post office mail sorting system\Post office mail sorting system\obj\Release\ResolveAssemblyReference.cache
+F:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form1.resources
+F:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form2.resources
+F:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form3.resources
+F:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.csproj.GenerateResource.Cache
+F:\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.exe
+F:\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.pdb
+C:\project\Post office mail sorting system\Post office mail sorting system\obj\Release\ResolveAssemblyReference.cache
+C:\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form3.resources
+C:\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\project\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.csproj.GenerateResource.Cache
+C:\project\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.exe
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.exe
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\ResolveAssemblyReference.cache
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form1.resources
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form2.resources
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form3.resources
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form4.resources
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.csproj.GenerateResource.Cache
+F:\Enigma\project\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1Imports.Form4.resources
+D:\Post office mail sorting system\Post office mail sorting system\bin\Release\Post office mail sorting system.exe
+D:\Post office mail sorting system\Post office mail sorting system\bin\Release\Post office mail sorting system.pdb
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\ResolveAssemblyReference.cache
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form2.resources
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form3.resources
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form4.resources
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form5.resources
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form6.resources
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.csproj.GenerateResource.Cache
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.exe
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\Post office mail sorting system.pdb
+D:\Post office mail sorting system\Post office mail sorting system\obj\Release\WindowsFormsApplication1.Form7.resources
